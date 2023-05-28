@@ -1,0 +1,15 @@
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\bin\Debug\net6.0\TesteListasemCsharp.exe
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\bin\Debug\net6.0\TesteListasemCsharp.deps.json
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\bin\Debug\net6.0\TesteListasemCsharp.runtimeconfig.json
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\bin\Debug\net6.0\TesteListasemCsharp.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\bin\Debug\net6.0\TesteListasemCsharp.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.csproj.AssemblyReference.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.AssemblyInfoInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.AssemblyInfo.cs
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.csproj.CoreCompileInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\refint\TesteListasemCsharp.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\TesteListasemCsharp.genruntimeconfig.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\projetos-c#\TesteListasemCsharp\TesteListasemCsharp\obj\Debug\net6.0\ref\TesteListasemCsharp.dll
